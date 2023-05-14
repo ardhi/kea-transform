@@ -1,0 +1,22 @@
+{
+  "name": "kea-transformer",
+  "version": "0.0.4",
+  "description": "Kea Transformer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/kea-transformer.git"
+  },
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/kea-transformer/issues"
+  },
+  "homepage": "https://github.com/ardhi/kea-transformer#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
